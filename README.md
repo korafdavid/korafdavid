@@ -12,13 +12,11 @@
 
 ## 💡 Contact Me On 
 
- - [Twitter](https://twitter.com/korafdavid)
+ - ![https://img.shields.io/twitter/follow/korafdavid?style=social](https://twitter.com/korafdavid)
 
- - [Facebook](https://www.facebook.com/korafdavid)
+ - [https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=purple](https://www.facebook.com/korafdavid)
 
  - [instagram]()
-
- - ![](https://img.shields.io/twitter/follow/korafdavid?style=social)
 
  -  # [mail](mailto:okoroafordavid61@gmail.com?body=Hi)
 
