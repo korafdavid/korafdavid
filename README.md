@@ -11,6 +11,12 @@
 
 <!-- https://twitter.com/korafdavid -->
 <!-- https://www.facebook.com/korafdavid -->
+
+# WhatsUp guys! <img src="https://github.com/korafdavid/korafdavid/blob/main/wave.gif" width="30px">
+
+ My Name is David Okoroafor, I am from Nigeria and I currently live in Abia State, Nigeria. I am Software Developer, passonate about writing Codes, learning from Others and Contributing to open source Code and peoples Codes, In General I am a Fun Guy to Work With😎
+
+
 ## 💡 Contact Me On 
 
  - ![](https://img.shields.io/twitter/follow/korafdavid?style=social)
