@@ -18,7 +18,9 @@
 
  - [instagram]()
 
- -  ## okoroafordavid61@gamil.com
+ - ![](https://img.shields.io/twitter/follow/korafdavid?style=social)
+
+ -  # [mail](mailto:okoroafordavid61@gmail.com?body=Hi)
 
 
 
