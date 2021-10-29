@@ -15,11 +15,11 @@
 
  - ![](https://img.shields.io/twitter/follow/korafdavid?style=social)
 
- - ![](https://img.shields.io/endpoint?url=https://www.facebook.com/korafdavid&badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=purple)
+ - ![](https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=blue)  [facebook](https://www.facebook.com/korafdavid)
 
- - [instagram]()
+ - ![](https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange)   [instagram](https://www.instagram.com/korafdavid/?utm_medium=copy_link)
 
- -  # [mail](mailto:okoroafordavid61@gmail.com?body=Hi)
+ -  ![](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=green)   [mail](mailto:okoroafordavid61@gmail.com?body=Hi)
 
 
 
