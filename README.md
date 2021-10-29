@@ -9,12 +9,13 @@
 ![](https://img.shields.io/badge/runtime-NODEJS-informational?style=flat&logo=Node.js&logoColor=white&color=purple)
 
 
-
+<!-- https://twitter.com/korafdavid -->
+<!-- https://www.facebook.com/korafdavid -->
 ## 💡 Contact Me On 
 
- - ![https://img.shields.io/twitter/follow/korafdavid?style=social](https://twitter.com/korafdavid)
+ - ![](https://img.shields.io/twitter/follow/korafdavid?style=social)
 
- - [https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=purple](https://www.facebook.com/korafdavid)
+ - ![](https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=purple)
 
  - [instagram]()
 
