@@ -17,7 +17,7 @@
  My Name is David Okoroafor, I am a passonate Software Developer from Nigeria😎
 
 
-## 💡 Contact Me On 
+## 💡 CONTACTS 
 
  - ![](https://img.shields.io/twitter/follow/korafdavid?style=social)
 
