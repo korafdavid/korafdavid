@@ -21,7 +21,7 @@
 
  - ![](https://img.shields.io/twitter/follow/korafdavid?style=social)
 
- - ![](https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=blue)  [facebook](https://www.facebook.com/korafdavid)
+ - <a href = "https://www.facebook.com/korafdavid">![](https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=blue)</a>  [facebook](https://www.facebook.com/korafdavid)
 
  - ![](https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=orange)   [instagram](https://www.instagram.com/korafdavid/?utm_medium=copy_link)
 
