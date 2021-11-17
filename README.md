@@ -27,5 +27,7 @@
 
  -  <a href = "mailto:okoroafordavid61@gmail.com?body=Hi">![](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=green)</a>
 
+<a href="https://stackoverflow.com/users/15179800/david-okoroafor"><img src="https://stackoverflow.com/users/flair/15179800.png" width="208" height="58" alt="profile for david okoroafor at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for david okoroafor at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 
 
