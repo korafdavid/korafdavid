@@ -14,12 +14,12 @@
 
 # WhatsUp guys! <img src="https://github.com/korafdavid/korafdavid/blob/main/wave.gif" width="30px">
 
- My Name is David Okoroafor, I am a passonate Software Developer from Nigeria😎
+ My Name is David Okoroafor, I am a passonate, professional and enthusiast programmer from Nigeria😎
 
 
 ## 💡 CONTACTS 
 
- - ![](https://img.shields.io/twitter/follow/korafdavid?style=social)
+ - <a href="https://twitter.com/korafdavid">![](https://img.shields.io/twitter/follow/korafdavid?style=social)</a>
 
  - <a href = "https://www.facebook.com/korafdavid">![](https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=blue)</a> 
 
