@@ -14,7 +14,7 @@
 
 # WhatsUp guys! <img src="https://github.com/korafdavid/korafdavid/blob/main/wave.gif" width="30px">
 
- My Name is David Okoroafor, I am a passonate, professional and enthusiast programmer.😎
+ My Name is David Okoroafor, I am a passonate, professional and enthusiast FullStack Flutter Developer.😎
 
 
 ## 💡 CONTACTS 
