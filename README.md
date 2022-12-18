@@ -12,7 +12,7 @@
 <!-- https://twitter.com/korafdavid -->
 <!-- https://www.facebook.com/korafdavid -->
 
-# WhatsUp guys! <img src="https://github.com/korafdavid/korafdavid/blob/main/wave.gif" width="30px">
+# Hi guys! <img src="https://github.com/korafdavid/korafdavid/blob/main/wave.gif" width="30px">
 
  My Name is David Okoroafor, I am a passonate, professional and enthusiast FullStack Flutter Developer.😎
 
