@@ -14,7 +14,15 @@
 
 # Hi guys! <img src="https://github.com/korafdavid/korafdavid/blob/main/wave.gif" width="30px">
 
- My Name is David Okoroafor, I am a passonate, professional and enthusiast FullStack Flutter Developer.😎
+
+Result-driven software engineer with 3+ years of working experience in strategic problemsolving as a professional Mobile developer, defining requirements, designing, implementing, testing, and delivering complex back-end and front-end using dart programming language, flutter framework and technologies. I thrive on building quality systems that surpass end users’ expectations.
+
+-Clean code practices
+-OOP concept and SOLID, KISS, AND DRY principles
+-Collaboration with GitHub
+-Creating Beautiful and complex UI from Figma and Adobe XD mock-ups
+-Clean Architecture using bloc pattern
+-Familiar with state management library like Flutter bloc and Getx😎
 
 
 ## 💡 CONTACTS 
