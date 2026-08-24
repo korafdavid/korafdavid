@@ -15,14 +15,9 @@
 # Hi guys! <img src="https://github.com/korafdavid/korafdavid/blob/main/wave.gif" width="30px">
 
 
-Result-driven software engineer with 3+ years of working experience in strategic problemsolving as a professional Mobile developer, defining requirements, designing, implementing, testing, and delivering complex back-end and front-end using dart programming language, flutter framework and technologies. I thrive on building quality systems that surpass end users’ expectations.
+Over the last 5 years, I have built software products, worked across mobile and backend systems, and helped turn ideas into scalable technology solutions.
 
--Clean code practices
--OOP concept and SOLID, KISS, AND DRY principles
--Collaboration with GitHub
--Creating Beautiful and complex UI from Figma and Adobe XD mock-ups
--Clean Architecture using bloc pattern
--Familiar with state management library like Flutter bloc and Getx😎
+I’m a Software Engineer with experience building applications using Flutter, Node.js, and React, with a strong focus on backend architecture, cloud infrastructure, and product development.
 
 
 ## 💡 CONTACTS 
